@@ -1,0 +1,11 @@
+{
+    "users":[
+        {
+            "firstname":"Vaishnavi",
+            "lastname":"Tonpe",
+            "address":"Amravati",
+            "username":"Vaishnavi",
+            "password":"12345"
+        }
+    ]
+}
